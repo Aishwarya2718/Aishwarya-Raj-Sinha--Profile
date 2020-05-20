@@ -1,0 +1,139 @@
+body{
+    
+     margin: 0;
+     text-align: center;
+     font-family: 'Merriweather', serif;
+     line-height: 2;
+     }
+a{
+color:#EA728C;
+text-align: center;
+padding: 10px 20px;
+margin: 0;
+width: 1540px;
+text-decoration: none;
+font-family: 'Montserrat', serif;
+}
+a:hover{
+color: white;
+}
+ .top-container{
+      background-color: #F3D4D4;
+      position: relative;
+     padding-top: 110px;
+   }
+.whoamI{
+ font-size: 600%;
+ font-family: 'Sacramento', cursive;
+ color: #EA728C;
+ }
+.span{
+text-decoration: underline;
+}
+.advert{
+font-family: 'Montserrat', sans-serif;
+ color: #EA728C;
+}
+.bottom-cloud{
+position: absolute;
+left: 350px;
+bottom: 300px;
+}
+.top-cloud{
+position: absolute;
+right: 400px;
+top: 40px;
+}
+.second-container{
+ background-color: #827397;
+position: relative;
+color: white;
+margin: 0;
+}
+.name{
+color: white;
+font-family: 'Sacramento', cursive;
+font-size: 400%;
+}
+.abt1{
+font-family: 'Montserrat', serif;
+}
+.comp2{
+background-color: #827397;
+padding: 30px;
+}
+.third-container{
+background-color: #A8D3DA;
+}
+.reason1{
+color: #30475E;
+font-size: 400%;
+font-family: 'Sacramento', cursive;
+}
+.reason2{
+color: #30475E;
+font-family: 'Montserrat', serif;
+}
+.fourth-container{
+background-color: white;
+}
+.help1{
+color: powderblue;
+font-family: 'Sacramento', serif;
+font-size: 400%;
+}
+.myButton {
+	background-color:#66BFBF;
+	border-radius:8px;
+	border:2px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+	font-size:23px;
+	padding:12px 26px;
+	text-decoration:none;
+	text-shadow:0px 1px 9px #283966;
+                   width: 200px;
+}
+.myButton:hover {
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.statement1{
+          color: powderblue;
+          font-family: 'Montserrat', serif;
+          line-height: 2;
+}
+.fifth-container{
+    background-color: #363636;
+ }
+.more2{
+font-size: 400%;
+font-family: 'Sacramento', serif;
+color: white;
+}
+.abt10{
+font-family: 'Montserrat', serif;
+color: white;
+}
+.footer{
+background-color: #363636;
+padding: 50px 0 20px;
+}
+.footer-link{
+color: white;
+text-decoration: none;
+}
+.footer-link:hover{
+color: hotpink;
+}
+.copyright{
+color: white;
+}
+.copyright:hover{
+color: turquoise;
+}
